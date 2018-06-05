@@ -1,0 +1,49 @@
+.title {
+  padding:7px;
+  position:absolute;
+  top:0%;
+  color:#135193;
+  opacity:0.8;
+  border:2px #135193 solid;
+  border-radius:10px;
+  font-family: 'Bowlby One SC', cursive;
+
+}
+
+.container {
+ position:relative;
+ margin:0 auto;
+ background-color:#a89928;
+ width:500px;
+ height:300px;
+  border-radius:50px;
+}
+div {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+button {
+  padding:30px;
+  margin:10px;  
+}
+.ramka {
+  text-align:center;
+  width:500px;
+  height:300px;
+  border:5px #a89928 solid;
+  color:#a89928;
+  font-family: 'Bowlby One SC', cursive;
+  font-size:19px;
+}
+body {
+display:flex;
+justify-content:space-between;
+}
+.special {
+color:blue;
+}
+.photo {
+  background-image:url()
+}
